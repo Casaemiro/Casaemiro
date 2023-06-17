@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Hi there 👋 My name is Akoneh Silas Magho
+- 🔭 I’m currently working at iknite space (https://iknite.space) as a fullstack developer,QA and DevOps engineer
+- 🌱 I’m currently learning mobile developement and improving my skill in web app developement.
+- 👯 I’m looking to collaborate on any project that helps to solve any real world problems especially in the education sector.
+- 📫 How to reach me:
+  - silasmagho18@gmail.com
+  - +237681099238
+- ⚡ 
 <!--
 **Casaemiro/Casaemiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
